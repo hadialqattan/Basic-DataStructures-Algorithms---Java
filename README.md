@@ -1,4 +1,4 @@
-# DataStructure-Algorithm-Basic-Java
+# Basic DataStructures And Algorithms With Java
 Implementation of basic data structures and algorithms in Java
 
 there are three types of data structures and algorithms:
